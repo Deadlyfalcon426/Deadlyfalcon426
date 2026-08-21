@@ -22,8 +22,8 @@ My solutions and practice from Codeforces and other programming contests.
 I've been using GitHub to keep track of my programming coursework, including:
 
 * Computer Science in the 21st Century
-* Object-Oriented Programming in Java
-* Introductory Computer Science
+* **[ Object-Oriented Programming in Java ](https://github.com/Deadlyfalcon426/OOP_with_Java_Summer_2026)**
+* **[ Intro to CS with Java ](https://github.com/Deadlyfalcon426/Intro_to_CS_with_Java_Summer_2026)**
 * Data Structures & Algorithms
 
 ### A few things I'm interested in
