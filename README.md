@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello World! I'm Ahsan.
 
-<!--
-**Deadlyfalcon426/Deadlyfalcon426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in **computer science, robotics, and algorithms**. I like building things, solving problems, and learning by messing with code.
 
-Here are some ideas to get you started:
+### What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C++** — competitive programming, simulations. My favorite language (currently)
+* **Java** — OOP and coursework
+* **Python** — programming, data/ML
+* **C#** — Unity and game/simulation projects
+
+### Current projects
+
+🚀 **[Space Simulator](https://github.com/Deadlyfalcon426/Space_Simulator)**
+A C++ orbital simulation project focused on numerical integration and orbital mechanics.
+
+💻 **[Competitive Programming](https://github.com/Deadlyfalcon426/competitive-programming)**
+My solutions and practice from Codeforces and other programming contests.
+
+### Coursework
+
+I've been using GitHub to keep track of my programming coursework, including:
+
+* Computer Science in the 21st Century
+* Object-Oriented Programming in Java
+* Introductory Computer Science
+* Data Structures & Algorithms
+
+### A few things I'm interested in
+
+Robotics · Algorithms · Physics simulations · Computer systems · Competitive programming
+
+### Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/ahsan-mohammed-b755373a2/)
