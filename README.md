@@ -15,10 +15,10 @@ I'm a student interested in **computer science, robotics, and algorithms**. I li
 A C++ orbital simulation project focused on numerical integration and orbital mechanics.
 
 💻 **[Competitive Programming](https://github.com/Deadlyfalcon426/competitive-programming)**
-My solutions and practice from Codeforces and other programming contests.
+My solutions and practice from Codeforces, USACO, LeetCode, and other coding puzzle sites. Mostly in C++
 
-🌐 **[Project Suricate](projectsuricate.studio)**
-A website I'm building for a friend's business. It's hosted with Cloudflare pages, and I've been learning a lot about web development and the intricacies of it.
+🌐 **[Project Suricate](https://projectsuricate.studio)**
+A website I'm building for a friend's business. It's hosted with Cloudflare pages, and I've been learning a lot about web development and its intricacies while making this site. 
 
 ### Coursework
 
