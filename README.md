@@ -9,13 +9,16 @@ I'm a student interested in **computer science, robotics, and algorithms**. I li
 * **Python** — programming, data/ML
 * **C#** — Unity and game/simulation projects
 
-### Current projects
+### Projects
 
 🚀 **[Space Simulator](https://github.com/Deadlyfalcon426/Space_Simulator)**
 A C++ orbital simulation project focused on numerical integration and orbital mechanics.
 
 💻 **[Competitive Programming](https://github.com/Deadlyfalcon426/competitive-programming)**
 My solutions and practice from Codeforces and other programming contests.
+
+🌐 **[Project Suricate](projectsuricate.studio)**
+A website I'm building for a friend's business. It's hosted with Cloudflare pages, and I've been learning a lot about web development and the intricacies of it.
 
 ### Coursework
 
